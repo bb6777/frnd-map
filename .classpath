@@ -2,5 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Eclipse/jee-2018-09/hsqldb/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/jee-2018-09/hsqldb/lib/sqltool.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/jee-2018-09/Workspace/frnd-map/bin/mysql-connector-java-5.1.18.bundle.jar.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
